@@ -1,0 +1,2 @@
+rootProject.name = "MANTRA62"
+include ':app'
